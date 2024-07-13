@@ -1,0 +1,2 @@
+- pip install -r requirements.txt
+- python "Projects\Rounds of Dekart\Main.py"
